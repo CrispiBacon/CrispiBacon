@@ -21,7 +21,7 @@ Currently Learning:
   "Concurrent Programming"
 ]
 
-2024 goals: ["Learn how to generate ML/AI models from scratch"] 
+Goals: ["Learn how to generate ML/AI models from scratch"] 
 Hobbies: ["🍳Cooking", "📖Reading", "🍿Watching Documentaries"]
 ```    
 <!---
