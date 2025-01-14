@@ -1,27 +1,5 @@
 ```yaml
-Name: Clarissa
-Located in: Kuala Lumpur, Malaysia
-Current Job: Student
-Education: Computer Science w/ a specialism in Data Analytics
-
-Field of Interest:
-[
-  "Data Science",
-  "Data Analytics",
-  "Machine Learning",
-  "Artificial Intelligence",
-  "Software Development"
-]
-    
-Currently Learning:
-[
-  "Power BI",
-  "Web Scrapping with Python",
-  "SAS",
-  "Concurrent Programming"
-]
-
-Goals: ["Learn how to generate ML/AI models from scratch"] 
+Goals: ["money whoop"] 
 Hobbies: ["🍳Cooking", "📖Reading", "🍿Watching Documentaries"]
 ```    
 <!---
